@@ -1,0 +1,67 @@
+.green-button{
+    background-color: rgb(33, 181, 115);
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+
+.green-button2{
+    background-color: rgb(33, 181, 115);
+    margin-top: 10px;
+    width: 140px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+
+.top img{
+    width: 35%;
+    height: auto;
+}
+
+.top{
+    padding-top: 10px;
+    background-color: rgb(240, 255, 240);
+}
+
+.nav-item{
+    padding-right: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-weight: 400;
+}
+
+.color-orange{
+    color: rgb(251, 113, 65);
+}
+
+.banner img{
+    width: 100%;
+}
+
+.banner h1{
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.color-green{
+    color: rgb(33, 181, 115);
+}
+
+.color-gray{
+    color: gray;
+}
+
+.banner p{
+    padding-top: 20px;
+}
+
+.banner{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
