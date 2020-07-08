@@ -77,6 +77,10 @@
     margin-bottom: 60px;
 }
 
+.container-fluid{
+    max-width: 90%;
+}
+
 .info-items{
     background-color: rgb(248, 255, 251);
     border-radius: 10px;
@@ -141,7 +145,7 @@
 }
 
 .copyright{
-    padding-top: 100px;
+    padding-top: 120px;
     color: rgb(199, 199, 199);
 }
 
@@ -155,4 +159,9 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+}
+
+button:hover{
+    background-image: linear-gradient(to right, rgb(33, 181, 77), rgb(57, 167, 71));
+    box-shadow: 1px 1px 20px rgba(128, 128, 128, 0.2);
 }
